@@ -15,39 +15,24 @@ Video generation models face a gap between training, with detailed descriptions,
 
 ## Case Study
 
-Prompt: A person is cheerleading.  
-<div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
-  <figure style="flex: 1; min-width: 20px; max-width: 100%; margin: 0; text-align: center;">
-    <img src="assets/mp4/case_1/origin.gif" alt="CogVideoX-5B original prompt optimization" style="width: 100%; max-width: 300px; height: auto;" />
-    <figcaption style="margin-top: 4px; font-size: 0.9em; color: #555;">
-      CogVideoX-5B with original prompt optimization method.
-    </figcaption>
-  </figure>
-  <figure style="flex: 1; min-width: 20px; max-width: 100%; margin: 0; text-align: center;">
-    <img src="assets/mp4/case_1/vpo.gif" alt="CogVideoX-5B with VPO" style="width: 100%; max-width: 300px; height: auto;" />
-    <figcaption style="margin-top: 4px; font-size: 0.9em; color: #555;">
-      CogVideoX-5B with VPO.
-    </figcaption>
-  </figure>
-</div>
+
+
+
+
+#### Prompt: A person is cheerleading.
+
+| CogVideoX‑5B with original prompt optimization method. | CogVideoX‑5B with VPO. |
+|:---:|:---:|
+| <img src="assets/mp4/case_1/origin.gif" width="90%" alt="原始方法" /> | <img src="assets/mp4/case_1/vpo.gif" width="90%" alt="VPO 方法" /> |
 
 <br>
 
-Prompt: A person is getting a haircut.  
-<div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
-  <figure style="flex: 1; min-width: 20px; max-width: 100%; margin: 0; text-align: center;">
-    <img src="assets/mp4/case_2/origin.gif" alt="CogVideoX-5B original prompt optimization" style="width: 100%; max-width: 300px; height: auto;" />
-    <figcaption style="margin-top: 4px; font-size: 0.9em; color: #555;">
-      CogVideoX-5B with original prompt optimization method.
-    </figcaption>
-  </figure>
-  <figure style="flex: 1; min-width: 20px; max-width: 100%; margin: 0; text-align: center;">
-    <img src="assets/mp4/case_2/vpo.gif" alt="CogVideoX-5B with VPO" style="width: 100%; max-width: 300px; height: auto;" />
-    <figcaption style="margin-top: 4px; font-size: 0.9em; color: #555;">
-      CogVideoX-5B with VPO.
-    </figcaption>
-  </figure>
-</div>
+#### Prompt: A person is getting a haircut.
+
+| CogVideoX‑5B with original prompt optimization method. | CogVideoX‑5B with VPO. |
+|:---:|:---:|
+| <img src="assets/mp4/case_2/origin.gif" width="90%" alt="原始方法" /> | <img src="assets/mp4/case_2/vpo.gif" width="90%" alt="VPO 方法" /> |
+
 
 
 ## Table of Contents
